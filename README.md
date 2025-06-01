@@ -3,12 +3,15 @@
 Live Demo - https://cryptoplace-f6b60.web.app/
 
 # Tech Stack
+```
     • Frontend: React.js (component-based structure, state management with Context API)
     • Navigation: React Router (to manage page navigation)
     • State Management: React Context API (for managing coin data globally)
     • Backend & Hosting: Firebase (for database and hosting, if used)
+```
 
 # Features & Functionality
+```
 📌 Home Page (/)
     • Displays a list of cryptocurrencies.
     • Implements search functionality to filter coins.
@@ -19,3 +22,4 @@ Live Demo - https://cryptoplace-f6b60.web.app/
 📌 Navigation & Routing
     • Uses React Router for page transitions.
 Maintains a clean and user-friendly UI with proper navigation.
+```
