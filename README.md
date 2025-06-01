@@ -21,5 +21,5 @@ Live Demo - https://cryptoplace-f6b60.web.app/
     • Displays additional information like price trends, market cap, and volume.
 📌 Navigation & Routing
     • Uses React Router for page transitions.
-Maintains a clean and user-friendly UI with proper navigation.
+    • Maintains a clean and user-friendly UI with proper navigation.
 ```
